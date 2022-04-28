@@ -7,6 +7,8 @@ import tkinter.font as font
 from unicodedata import category
 import mysql.connector as mysql
 
+# new
+
 
 def submit():
     payee = drop2.get()
