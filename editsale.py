@@ -6,7 +6,7 @@ import tkinter.font as font
 
 def add_custom():
     import addcustomer_form
-
+# jjjjjjjjjjjjjjjjjjj
 root = tk.Tk()
 root.title("finsYs")
 width=root.winfo_screenwidth()
